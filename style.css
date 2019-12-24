@@ -47,7 +47,7 @@ z-index:1;
 background-repeat:repeat-x;
 animation:city 20s linear infinite;
 }
-@keyframes city
+@keyframes car
 {
 100%{
 transform:translateX(-1400px);
